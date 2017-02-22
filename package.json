@@ -1,0 +1,14 @@
+{
+  "name": "simplePush",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "babel-runtime": "^6.18.0",
+    "bcrypt": "^1.0.2",
+    "meteor-node-stubs": "^0.2.5",
+    "simpl-schema": "^0.2.2",
+    "web-push": "^3.2.2"
+  }
+}

@@ -1,0 +1,11 @@
+{
+	"gcm": "AAAAzBVDaZA:APA91bFVGrZpkqePip8JoNHCgzlZTHW1K0J2d_mpYqOt1bGXJSJ31-lzid5kQMrnqQbigvt7lSm1heqNfi68AvssLysRQTUQR4eYBIPmeCMDJgFkkh4ml3XPhaW7Hu6BNn0K9YfrDzcE",
+	"vapid": {
+		"privateKey":"wdTQ5-vOnD3GBcVJRxNNBcSGnl1jOFxbRsMkZgOHBLY"
+	},
+	"public":{
+		"vapid": {
+			"publicKey":"BAj3aaAE1EdLNZXcE-zAbL7omwu5jIV6jACXDhMN21wFP4ZInoaQdnTJOe1P8ctKrCmIUeIp9FP_uhfzEH0KbCk"
+		}
+	}
+}
